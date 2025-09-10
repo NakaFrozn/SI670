@@ -1,0 +1,11 @@
+{
+    // SI670.code-workspace
+    "folders": [
+        {
+            "path": "." // Refers to the current directory
+        }
+    ],
+    "settings": {
+        // Add any workspace-specific settings here
+    }
+}
